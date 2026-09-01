@@ -23,7 +23,7 @@ RAG-ассистент по вину в Telegram. Гибридный поиск 
 фоллбэком на DeepSeek; при недоступности API поиск деградирует до офлайнового
 BM25 и бот продолжает отвечать. Оценки 👍/👎 пишутся в SQLite.
 
-**[vino-terra-site](https://github.com/kirillbadulin74/vino-terra-site)** —
+**[Vino-terra-site](https://github.com/kirillbadulin74/Vino-terra-site)** —
 тот же RAG-движок в двух транспортах: FastAPI-эндпоинты для чат-виджета на
 сайте и Telegram-бот, одно ядро на двоих. Развёрнуто на своём VPS: nginx,
 systemd-юниты, инструкция деплоя. 
